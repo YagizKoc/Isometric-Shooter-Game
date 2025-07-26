@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78961fe6174a17c48afccd559183a627, type: 3}
+  m_Name: Double Barrel
+  m_EditorClassIdentifier: 
+  weaponName: Double Barrel
+  damage: 2
+  fireRate: 0.75
+  range: 5
+  magazineSize: 2
+  reloadTime: 2
+  projectileSpeed: 5
+  weaponRecoil: 15
+  waeaponParticle: {fileID: 0}
+  projectilePrefab: {fileID: 1555763633953523329, guid: 755ea1940abca4e4fb7f6c158936d48b, type: 3}
+  weaponPrefab: {fileID: 731321530607254796, guid: c36a1125da3003945a4aa77be410471f, type: 3}
